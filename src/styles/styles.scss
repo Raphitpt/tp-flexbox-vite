@@ -1,0 +1,10 @@
+@import "vendors/reset.scss";
+@import "vendors/header.scss";
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
